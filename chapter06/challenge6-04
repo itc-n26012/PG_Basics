@@ -1,0 +1,2 @@
+lst = "いつ? だれが? どこで?".split("?")
+print(lst)

@@ -1,0 +1,7 @@
+quote1 = "吾輩はただの猫である"
+quote2 = "恥の多い生涯を送ってきました"
+quote3 = "向上心のないものは、ばかだ"
+
+print(quote1)
+print(quote2)
+print(quote3)
